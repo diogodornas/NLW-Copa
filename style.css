@@ -32,6 +32,7 @@ header {
   opacity: 0;
   transform: translateY(-100px);
   animation: appear 0.4s forwards;
+  /* FORWARDS FICA (TERMINA) COM AS PROPRIEDADES DO TO (KEYFRAMES) */
 
   user-select: none;
   -webkit-user-select: none;
